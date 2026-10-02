@@ -1,0 +1,9 @@
+.venv/
+dataset/
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+*.tar.gz
+backup_before_spatial_upgrade/

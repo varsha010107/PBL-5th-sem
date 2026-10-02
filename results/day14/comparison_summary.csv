@@ -1,0 +1,7 @@
+metric,template_matching,spatial_ai
+samples,100,100
+mean_error_pixels,0.0,1331.6458669632134
+median_error_pixels,0.0,1403.1758935941168
+maximum_error_pixels,0.0,2822.9082583669365
+mean_processing_time_ms,171.3666596500008,20.379496499984384
+success_rate_percent,100.0,4.0

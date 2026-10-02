@@ -1,0 +1,14 @@
+#!/bin/bash
+
+PROJECT_DIR="$HOME/Applied_Materials_PBL"
+
+cd "$PROJECT_DIR" || exit 1
+
+source "$PROJECT_DIR/.venv/bin/activate"
+
+unset QT_PLUGIN_PATH
+unset QT_QPA_PLATFORM_PLUGIN_PATH
+
+export PYTHONPATH="$PROJECT_DIR/src"
+
+exec python "$PROJECT_DIR/src/app/main.py"

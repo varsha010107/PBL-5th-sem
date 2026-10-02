@@ -1,0 +1,101 @@
+reference_id,x,y,localization_score,status,defect_type,confidence,difference,changed_pixels,regions,visualization
+1,0,0,1.0,FAIL,PARTICLE,99.0,0.2556,639,31,results/day20/visualizations/inspection_0001.png
+2,0,0,1.0,FAIL,FABRICATION DEFECT,88.24,0.45599999999999996,1140,14,results/day20/visualizations/inspection_0002.png
+3,0,0,1.0,FAIL,PARTICLE,95.62,0.10120000000000001,253,1,results/day20/visualizations/inspection_0003.png
+4,0,0,1.0,FAIL,PARTICLE,62.82,0.0172,43,2,results/day20/visualizations/inspection_0004.png
+5,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0005.png
+6,0,0,1.0,FAIL,FABRICATION DEFECT,83.376,0.33440000000000003,836,9,results/day20/visualizations/inspection_0006.png
+7,0,0,1.0,FAIL,PARTICLE,86.75999999999999,0.031599999999999996,79,6,results/day20/visualizations/inspection_0007.png
+8,0,0,1.0,FAIL,FABRICATION DEFECT,79.712,0.24280000000000002,607,10,results/day20/visualizations/inspection_0008.png
+9,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,0.9244,2311,16,results/day20/visualizations/inspection_0009.png
+10,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0010.png
+11,0,0,1.0,FAIL,PARTICLE,68.36,0.0736,184,18,results/day20/visualizations/inspection_0011.png
+12,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,1.2992,3248,1,results/day20/visualizations/inspection_0012.png
+13,0,0,1.0,FAIL,PARTICLE,72.74000000000001,0.11839999999999999,296,36,results/day20/visualizations/inspection_0013.png
+14,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,0.9264,2316,30,results/day20/visualizations/inspection_0014.png
+15,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0015.png
+16,0,0,1.0,FAIL,FABRICATION DEFECT,88.816,0.4704,1176,23,results/day20/visualizations/inspection_0016.png
+17,0,0,1.0,FAIL,PARTICLE,71.46,0.0996,249,26,results/day20/visualizations/inspection_0017.png
+18,0,0,1.0,FAIL,FABRICATION DEFECT,84.352,0.3588,897,38,results/day20/visualizations/inspection_0018.png
+19,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,0.7779999999999999,1945,1,results/day20/visualizations/inspection_0019.png
+20,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0020.png
+21,0,0,1.0,FAIL,PARTICLE,72.16,0.1036,259,15,results/day20/visualizations/inspection_0021.png
+22,0,0,1.0,FAIL,PARTICLE,99.0,0.2908,727,76,results/day20/visualizations/inspection_0022.png
+23,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,0.7508,1877,2,results/day20/visualizations/inspection_0023.png
+24,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,1.2464,3116,6,results/day20/visualizations/inspection_0024.png
+25,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0025.png
+26,0,0,1.0,FAIL,PARTICLE,88.32,0.0672,168,6,results/day20/visualizations/inspection_0026.png
+27,0,0,1.0,FAIL,PARTICLE,99.0,0.2192,548,24,results/day20/visualizations/inspection_0027.png
+28,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,1.1108,2777,35,results/day20/visualizations/inspection_0028.png
+29,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,0.7516,1879,79,results/day20/visualizations/inspection_0029.png
+30,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0030.png
+31,0,0,1.0,FAIL,FABRICATION DEFECT,93.632,0.5908,1477,26,results/day20/visualizations/inspection_0031.png
+32,0,0,1.0,FAIL,PARTICLE,68.02,0.0572,143,9,results/day20/visualizations/inspection_0032.png
+33,0,0,1.0,FAIL,FABRICATION DEFECT,88.832,0.47080000000000005,1177,10,results/day20/visualizations/inspection_0033.png
+34,0,0,1.0,FAIL,FABRICATION DEFECT,82.432,0.3108,777,13,results/day20/visualizations/inspection_0034.png
+35,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0035.png
+36,0,0,1.0,FAIL,FABRICATION DEFECT,94.24,0.606,1515,23,results/day20/visualizations/inspection_0036.png
+37,0,0,1.0,FAIL,PARTICLE,99.0,0.1972,493,10,results/day20/visualizations/inspection_0037.png
+38,0,0,1.0,FAIL,FABRICATION DEFECT,89.088,0.4772,1193,14,results/day20/visualizations/inspection_0038.png
+39,0,0,1.0,FAIL,PARTICLE,98.18,0.1268,317,1,results/day20/visualizations/inspection_0039.png
+40,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0040.png
+41,0,0,1.0,FAIL,PARTICLE,63.84,0.0224,56,5,results/day20/visualizations/inspection_0041.png
+42,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,1.0416,2604,51,results/day20/visualizations/inspection_0042.png
+43,0,0,1.0,FAIL,FABRICATION DEFECT,87.792,0.4448,1112,16,results/day20/visualizations/inspection_0043.png
+44,0,0,1.0,FAIL,PARTICLE,89.98,0.0448,112,1,results/day20/visualizations/inspection_0044.png
+45,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0045.png
+46,0,0,1.0,FAIL,PARTICLE,87.89999999999999,0.046,115,1,results/day20/visualizations/inspection_0046.png
+47,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,0.8019999999999999,2005,21,results/day20/visualizations/inspection_0047.png
+48,0,0,1.0,FAIL,PARTICLE,67.16,0.05959999999999999,149,29,results/day20/visualizations/inspection_0048.png
+49,0,0,1.0,FAIL,PARTICLE,99.0,0.22,550,46,results/day20/visualizations/inspection_0049.png
+50,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0050.png
+51,0,0,1.0,FAIL,PARTICLE,90.02,0.0452,113,1,results/day20/visualizations/inspection_0051.png
+52,0,0,1.0,FAIL,PARTICLE,95.26,0.1476,369,7,results/day20/visualizations/inspection_0052.png
+53,0,0,1.0,FAIL,FABRICATION DEFECT,93.744,0.5936,1484,12,results/day20/visualizations/inspection_0053.png
+54,0,0,1.0,FAIL,PARTICLE,99.0,0.2,500,73,results/day20/visualizations/inspection_0054.png
+55,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0055.png
+56,0,0,1.0,FAIL,FABRICATION DEFECT,88.832,0.47080000000000005,1177,33,results/day20/visualizations/inspection_0056.png
+57,0,0,1.0,FAIL,FABRICATION DEFECT,88.496,0.4624,1156,19,results/day20/visualizations/inspection_0057.png
+58,0,0,1.0,FAIL,PARTICLE,78.25999999999999,0.05959999999999999,149,35,results/day20/visualizations/inspection_0058.png
+59,0,0,1.0,FAIL,PARTICLE,75.42,0.1332,333,16,results/day20/visualizations/inspection_0059.png
+60,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0060.png
+61,0,0,1.0,FAIL,FABRICATION DEFECT,91.248,0.5312,1328,6,results/day20/visualizations/inspection_0061.png
+62,0,0,1.0,FAIL,PARTICLE,75.94,0.15039999999999998,376,83,results/day20/visualizations/inspection_0062.png
+63,0,0,1.0,FAIL,PARTICLE,67.76,0.0656,164,17,results/day20/visualizations/inspection_0063.png
+64,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,0.7956,1989,10,results/day20/visualizations/inspection_0064.png
+65,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0065.png
+66,0,0,1.0,FAIL,PARTICLE,88.74000000000001,0.0324,81,1,results/day20/visualizations/inspection_0066.png
+67,0,0,1.0,FAIL,FABRICATION DEFECT,87.456,0.4364,1091,5,results/day20/visualizations/inspection_0067.png
+68,0,0,1.0,FAIL,FABRICATION DEFECT,90.4,0.51,1275,6,results/day20/visualizations/inspection_0068.png
+69,0,0,1.0,FAIL,PARTICLE,99.0,0.1552,388,63,results/day20/visualizations/inspection_0069.png
+70,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0070.png
+71,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,0.7256,1814,11,results/day20/visualizations/inspection_0071.png
+72,0,0,1.0,FAIL,FABRICATION DEFECT,93.792,0.5948,1487,27,results/day20/visualizations/inspection_0072.png
+73,0,0,1.0,FAIL,FABRICATION DEFECT,91.26400000000001,0.5316000000000001,1329,15,results/day20/visualizations/inspection_0073.png
+74,0,0,1.0,FAIL,PARTICLE,74.1,0.11,275,5,results/day20/visualizations/inspection_0074.png
+75,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0075.png
+76,0,0,1.0,FAIL,FABRICATION DEFECT,81.344,0.2836,709,1,results/day20/visualizations/inspection_0076.png
+77,0,0,1.0,FAIL,FABRICATION DEFECT,84.272,0.3568,892,18,results/day20/visualizations/inspection_0077.png
+78,0,0,1.0,FAIL,PARTICLE,99.0,0.1764,441,1,results/day20/visualizations/inspection_0078.png
+79,0,0,1.0,FAIL,PARTICLE,74.0,0.128,320,68,results/day20/visualizations/inspection_0079.png
+80,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0080.png
+81,0,0,1.0,FAIL,PARTICLE,98.18,0.1268,317,1,results/day20/visualizations/inspection_0081.png
+82,0,0,1.0,FAIL,FABRICATION DEFECT,85.92,0.398,995,13,results/day20/visualizations/inspection_0082.png
+83,0,0,1.0,FAIL,PARTICLE,99.0,0.2016,504,30,results/day20/visualizations/inspection_0083.png
+84,0,0,1.0,FAIL,FABRICATION DEFECT,84.288,0.3572,893,22,results/day20/visualizations/inspection_0084.png
+85,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0085.png
+86,0,0,1.0,FAIL,FABRICATION DEFECT,92.88,0.5720000000000001,1430,1,results/day20/visualizations/inspection_0086.png
+87,0,0,1.0,FAIL,PARTICLE,64.64,0.0364,91,12,results/day20/visualizations/inspection_0087.png
+88,0,0,1.0,FAIL,PARTICLE,62.76,0.021599999999999998,54,9,results/day20/visualizations/inspection_0088.png
+89,0,0,1.0,FAIL,PARTICLE,86.2,0.248,620,77,results/day20/visualizations/inspection_0089.png
+90,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0090.png
+91,0,0,1.0,FAIL,PARTICLE,62.779999999999994,0.014799999999999999,37,4,results/day20/visualizations/inspection_0091.png
+92,0,0,1.0,FAIL,FABRICATION DEFECT,99.0,0.7776,1944,2,results/day20/visualizations/inspection_0092.png
+93,0,0,1.0,FAIL,PARTICLE,95.62,0.10120000000000001,253,1,results/day20/visualizations/inspection_0093.png
+94,0,0,1.0,FAIL,FABRICATION DEFECT,95.456,0.6364,1591,24,results/day20/visualizations/inspection_0094.png
+95,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0095.png
+96,0,0,1.0,FAIL,PARTICLE,99.0,0.16440000000000002,411,1,results/day20/visualizations/inspection_0096.png
+97,0,0,1.0,FAIL,FABRICATION DEFECT,84.112,0.3528,882,5,results/day20/visualizations/inspection_0097.png
+98,0,0,1.0,FAIL,PARTICLE,99.0,0.3764,941,124,results/day20/visualizations/inspection_0098.png
+99,0,0,1.0,FAIL,FABRICATION DEFECT,82.592,0.3148,787,28,results/day20/visualizations/inspection_0099.png
+100,0,0,1.0,PASS,GOOD,99.0,0.0,0,0,results/day20/visualizations/inspection_0100.png
